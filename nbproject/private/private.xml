@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/com/swing_frame/FormDoiMatKhau.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>152</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/model/User.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/service/Security.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/model/Phong.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing_frame/Home.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/repository/Icrud.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing_frame/FormDatPhongPlus.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing_frame/FormDonPhongPlus.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/model/Account.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing_frame/LoginGUI.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/model/Role.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing_frame/Test.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing_frame/FormDoanhThu.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/images/Apps-Dialog-Shutdown-icon.png</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing_frame/MySqlConnectionUtil.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/model/Other.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/repository/Crud.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/SwingBTL/src/com/swing/images/Bulleted-List-icon.png</file>
+        </group>
+    </open-files>
+</project-private>
